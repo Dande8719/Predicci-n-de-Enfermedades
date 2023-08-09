@@ -1,4 +1,8 @@
 # Predicción-de-Enfermedades
+
+![Uploading image.png…]()
+
+
 Predicción de enfermedades en función de los síntomas presentados por el paciente. En: Illness prediction knowing the symptoms of the patient.
 
 En este proyecto usamos un modelo de Machine Learning de clasificación multiclase para predecir enfermedades basándonos en los síntomas presentados por el paciente.
