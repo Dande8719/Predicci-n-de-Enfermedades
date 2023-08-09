@@ -39,6 +39,6 @@ En este repositorio de guithub podemos ver los 3 notebooks donde realizamos este
 
 
 
-En la presentación del proyecto en powerpoint podeis ver los aspectos más relevantes del mismo ademas al final del codigo podes interaccionar con el mismo introducciendo los posibles sintomas que padece un paciente para que esta función nos devuelva la enfermedad que presenta este.
-Un saludo y para cualuier custión, !No dudéis en poneros en contacto conmigo!
+En la presentación del proyecto en powerpoint podeis ver los aspectos más relevantes del mismo.
+Un saludo y para cualquier custión, !No dudéis en poneros en contacto conmigo!
 PD: Si estais enfermos primero llamad al médico, no preguntéis a Google XD.
