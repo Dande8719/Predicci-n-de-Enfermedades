@@ -1,7 +1,6 @@
 # Predicción-de-Enfermedades
 
-![Uploading image.png…]()
-
+![image](https://github.com/Dande8719/Prediccion-de-Enfermedades/assets/103025222/33013b34-7386-419e-8276-5b9d1d9f0fbd)
 
 Predicción de enfermedades en función de los síntomas presentados por el paciente. En: Illness prediction knowing the symptoms of the patient.
 
