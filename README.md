@@ -1,4 +1,4 @@
-# Predicción-de-Enfermedades
+# Predicción-de-Enfermedades (Modelo de Machine Learning - Clasificación Multiclase)
 
 ![image](https://github.com/Dande8719/Prediccion-de-Enfermedades/assets/103025222/33013b34-7386-419e-8276-5b9d1d9f0fbd)
 
